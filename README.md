@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/joomla-menu-items-api">joomla-menu-items-api</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/joomla-menu-items-api"><strong>https://abraxaslabs.tech/research/joomla-menu-items-api</strong></a>
+</p>
+
 
 # joomla-menu-items-api
 
